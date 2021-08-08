@@ -1,3 +1,4 @@
+
 a = int(input('digite um número: '))
 
 div = 0
@@ -11,3 +12,6 @@ if div == 2:
     print('número {} é primo'.format(a))
 else:
     print('número {} não é primo'.format(a))
+
+
+    #if e While
